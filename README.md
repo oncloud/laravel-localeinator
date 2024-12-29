@@ -312,7 +312,7 @@ The available locales can be fetched and displayed using the `availableLocales` 
 
 ## **License**
 
-This package is licensed under the [MIT License](LICENSE).
+This package is licensed under the [GNU GPLv3 License](LICENSE).
 
 ---
 
