@@ -1,0 +1,40 @@
+{
+  "name": "@mcmuffindk/laravel-localeinator",
+  "version": "1.0.0",
+  "description": "Localization package for Laravel applications using react",
+  "keywords": [
+    "react",
+    "laravel",
+    "locale",
+    "localization",
+    "translation"
+  ],
+  "homepage": "https://github.com/oncloud/laravel-localeinator#readme",
+  "bugs": {
+    "url": "https://github.com/oncloud/laravel-localeinator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oncloud/laravel-localeinator.git"
+  },
+  "license": "MIT",
+  "author": "oncloud",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "laravel-localeinator": "bin/parse-translations.js"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "php-parser": "^3.2.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {}
+}
