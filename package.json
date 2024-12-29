@@ -1,6 +1,6 @@
 {
   "name": "@mcmuffindk/laravel-localeinator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Localization package for Laravel applications using react",
   "keywords": [
     "react",
